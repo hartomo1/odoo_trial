@@ -2,3 +2,8 @@
 	path = OCA/account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
 	branch = 13.0
+
+[submodule "CybroOdoo/CybroAddons"]
+	path = CybroOdoo/CybroAddons
+	url = git@github.com:CybroOdoo/CybroAddons.git
+	branch = 13.0
